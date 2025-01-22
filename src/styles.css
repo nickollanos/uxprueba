@@ -1,1 +1,61 @@
-/* You can add global styles to this file, and also import other style files */
+/*** FUENTE UTILIZADA SEGUN PIDE EL RETO ROBOTO ***/
+
+/*** ROBOTO BLACK ***/
+@font-face {
+  font-family: 'Roboto';
+  src: url('assets/fonts/Roboto-Black.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*** ROBOTO BLACK ITALIC ***/
+@font-face {
+  font-family: 'Roboto';
+  src: url('assets/fonts/Roboto-BlackItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/*** ROBOTO BOLD ***/
+@font-face {
+  font-family: 'Roboto';
+  src: url('assets/fonts/Roboto-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/*** ROBOTO BOLD ITALIC ***/
+@font-face {
+  font-family: 'Roboto';
+  src: url('assets/fonts/Roboto-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/*** ROBOTO ITALIC ***/
+@font-face {
+  font-family: 'Roboto';
+  src: url('assets/fonts/Roboto-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/*** ROBOTO LIGTH ***/
+@font-face {
+  font-family: 'Roboto';
+  src: url('assets/fonts/Roboto-Light.ttf') format('truetype');
+  font-weight: lighter;
+  font-style: normal;
+}
+
+/*** ROBOTO LIGTH ITALIC ***/
+@font-face {
+  font-family: 'Roboto';
+  src: url('assets/fonts/Roboto-LightItalic.ttf') format('truetype');
+  font-weight: lighter;
+  font-style: italic;
+}
+
+body{
+  margin: 0;
+}
